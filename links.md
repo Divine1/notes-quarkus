@@ -8,4 +8,7 @@ https://quarkus.io/guides/
 https://smallrye.io/smallrye-mutiny/latest/#navigable
 
 https://quarkus.io/guides/#q=authentication
+
+https://quarkus.io/guides/cli-tooling
+
 ```
