@@ -28,3 +28,7 @@ quarkus create app --gradle --java=21 --output-directory=firstquarkus --wrapper 
 
 quarkus create app --gradle --java=21 --wrapper --code --dockerfiles --name=firstquarkus -P io.quarkus.platform:quarkus-bom:3.25.1 --package-name=com.firstquarkus com:firstquarkus:1.0.0 --dry-run
 ```
+
+```
+.\gradlew.bat clean quarkusDev
+```
